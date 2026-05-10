@@ -521,8 +521,6 @@ Despite these limitations, the system successfully demonstrates the core capabil
 
 ## 10. Group Contributions
 
-*[To be filled in by the team — template structure provided below.]*
-
 | Member | Contribution Areas | Percentage |
 |---|---|---|
 | Worawalan Chatlatanagulchai | First model architecture design, training pipeline implementation, Documentation Writing | 50% |
